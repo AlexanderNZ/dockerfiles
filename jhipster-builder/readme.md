@@ -1,0 +1,1 @@
+This is a helper dockerfile designed to provide a stable and simple build environment for jhipster based applications.
